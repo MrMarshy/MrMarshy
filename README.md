@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrMarshy
 - 👀 I’m interested in Embedded Systems Programming
-- 🌱 I’m currently learning FreeRTOS
+- 🌱 I’m currently learning design patterns.
 - 💞️ I’m looking to collaborate on embedded projects
 
 <!---
